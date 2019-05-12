@@ -1,0 +1,5 @@
+Manifest-Version: 1.0
+Creator: Andrew Tschudy
+Main-Class: RandLunch
+Date: 02/10/2019
+
